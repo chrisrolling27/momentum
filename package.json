@@ -1,8 +1,6 @@
 {
-  "name": "movie-browser",
+  "name": "momentum",
   "version": "1.1.0",
-  "description": "HRSF77/78 Review: Movie Browser",
-  "author": "Hack Reactor <curriculum.team@hackreactor.com>",
   "license": "UNLICENSED",
   "private": true,
   "scripts": {

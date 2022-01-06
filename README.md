@@ -15,4 +15,4 @@
   npm run react-dev
   ```
 
-4. Open localhost:8081
+4. Open localhost:8080

@@ -21,7 +21,7 @@ class App extends React.Component {
     return (
 
       <div>
-        Hello world
+        Hello Thad Rolling, I hope you are well today
       </div>
     );
   }
